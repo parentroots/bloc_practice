@@ -18,6 +18,7 @@ dependencies:
   flutter_bloc:
   equatable: ^2.0.8
   bloc: ^9.2.0
+  http: ^1.1.2
 
 
 dev_dependencies:
